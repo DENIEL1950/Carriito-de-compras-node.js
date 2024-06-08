@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom/client'
 import { CaritoApp } from './CaritoApp'
 import { BrowserRouter } from 'react-router-dom'
 
-/*
-Esta es una Prueba de que subi los cambios
-*/
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <React.StrictMode>
